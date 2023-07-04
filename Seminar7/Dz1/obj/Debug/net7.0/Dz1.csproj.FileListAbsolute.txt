@@ -1,0 +1,15 @@
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.csproj.AssemblyReference.cache
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfoInputs.cache
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfo.cs
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.csproj.CoreCompileInputs.cache
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\bin\Debug\net7.0\Dz1.exe
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\bin\Debug\net7.0\Dz1.deps.json
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\bin\Debug\net7.0\Dz1.runtimeconfig.json
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\bin\Debug\net7.0\Dz1.dll
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\bin\Debug\net7.0\Dz1.pdb
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.dll
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\refint\Dz1.dll
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.pdb
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\Dz1.genruntimeconfig.cache
+C:\Users\79151\Desktop\Exsample\Seminar7\Dz1\obj\Debug\net7.0\ref\Dz1.dll
