@@ -7,12 +7,12 @@ int n = Convert.ToInt32(Console.ReadLine());
 double[,] array = new double[m , n];
 
 Random random = new Random();
-for (int i = 0; i < n; i++)
+for (int i = 0; i < array.GetLength(0); i++)
 {
-    for (int j = 0; j <= m; j++)
+    for (int j = 0; j < array.GetLength(1); j++)
     {
-        array[i, j] = Math.Round(random.NextDouble(), 2);
-        Console.Write(array[i, j] + " ");
+        array[i,j] =(double)random.Next(0,100)/ 10;
+        Console.Write(array[i,j] + " ");
     }
     Console.WriteLine();
 }
